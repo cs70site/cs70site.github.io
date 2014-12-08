@@ -254,4 +254,5 @@ p {
 	border-bottom: 2px solid rgba(218, 225, 229, 0.33);
 	width: 700px;
 	padding: 10px 0;
+	cursor: pointer;
 }

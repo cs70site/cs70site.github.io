@@ -9,7 +9,7 @@ body, html {
 	min-width: 960px;
 	font-size: 14px;
 	text-rendering: optimizeLegibility;
-	line-height: 1.4;
+	line-height: 1.5;
 	font-family: Helvetica Neue;
 	box-sizing: border-box;
 	-webkit-font-smoothing: antialiased;
@@ -187,7 +187,6 @@ p {
 .section_header {
 	font-size: 32px;
 	color: #2a3744;
-	/* margin-bottom: 12px; */
 	font-weight: 500;
 }
 
@@ -203,7 +202,6 @@ p {
     font-size: 16px;
     box-sizing: border-box;
     border-radius: 3px;
-    padding-top: 10px;
 }
 
 #instructor:hover {
